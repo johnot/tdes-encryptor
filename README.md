@@ -6,6 +6,7 @@ Triple Des Encryptor
 This is sample on how to triple des encrypt card numbers using a number of number of block cipher modes.
 
 This includes:
+
 ECB - Electronic Code Book
 
 CBC - Cipher Block Chaining
@@ -20,9 +21,9 @@ Code is Java 7.
 
 Compile with maven. Output in classes directory.
 
-To run 
+To run the jar
  
-jar java -jar TDesEncryptor-1.0.jar
+java -jar TDesEncryptor-1.0.jar
 
 
 
